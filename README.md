@@ -57,3 +57,7 @@ Customizability: Allows users to customize settings such as encryption modes and
 
 Conclusion
 The Advanced Encryption Tool is a significant contribution to data security, empowering users to protect their files against unauthorized access. Its robust encryption algorithms and user-friendly design make it an ideal solution for individuals and organizations alike.
+
+#OUTPUT:-
+File encrypted successfully: example.txt.enc
+
